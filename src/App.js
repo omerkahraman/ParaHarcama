@@ -6,7 +6,7 @@ import Product from "./components/Product";
 
 function App() {
 
-  const [money, setMoney] = useState(1000000)
+  const [money, setMoney] = useState(100000)
   const [basket, setBasket] = useState([]);
   const [total, setTotal] = useState(0);
 

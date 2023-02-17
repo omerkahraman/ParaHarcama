@@ -18,46 +18,16 @@
         "image": "https://14231c.cdn.akinoncloud.com/products/2021/12/08/141205/3dc856c3-6cca-4fe0-8e50-c462e9ce432f_size780x780_cropCenter.jpg"
     },
     {
-        "id": 4,
-        "title": "Mont",
-        "price": 5800,
-        "image": "https://productimages.hepsiburada.net/s/154/600-800/110000110863353.jpg"
-    },
-    {
-        "id": 5,
-        "title": "Ayakkabı",
-        "price": 4500,
-        "image": "https://floimages.mncdn.com/media/catalog/product/21-11/15/yazkis-kadin-siyah-uzun-keten-spor-ayakkabi-7331-1636983824.JPG"
-    },
-    {
         "id": 6,
         "title": "Sakız",
         "price": 5,
         "image":"https://images.migrosone.com/sanalmarket/product/07120219/07120219-68be82-1650x1650.jpg"
     },
     {
-        "id": 7,
-        "title": "Çorap",
-        "price": 50,
-        "image": "https://dfcdn.defacto.com.tr/7/V5055AZ_NS_KR1_03_01.jpg"
-    },
-    {
         "id": 8,
         "title": "Bilgisayar",
         "price": 23000,
         "image":"https://cdn.cimri.io/image/1200x1200/ilifedizstbilgisayarfiyatlar_650109781.jpg"
-    },
-    {
-        "id": 9,
-        "title": "Tshirt",
-        "price": 450,
-        "image": "https://img.joomcdn.net/a24f70d27ca2552e92aa45c9005827c82b915156_original.jpeg"
-    },
-    {
-        "id": 10,
-        "title": "Pantolon",
-        "price": 750,
-        "image": "https://sky-static.mavi.com/sys-master/maviTrImages/hf6/h31/9799831289886/1010251-82803_image_1.jpg_Default-ZoomProductImage"
     }
     
 ]
